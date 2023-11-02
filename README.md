@@ -1,1 +1,1 @@
-# github_practice
+The project is for github practice.
